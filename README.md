@@ -14,15 +14,15 @@ Gosto de transformar ideias em projetos criativos e funcionais — e aprender al
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
 
 ### 📊 Status e Contribuições
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=rose_pine" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anab-alves&show_icons=true&theme=rose_pine" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anab-alves&layout=compact&theme=rose_pine" height="150"/>
 </p>
 
 ---
